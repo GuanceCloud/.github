@@ -1,6 +1,6 @@
 # Hi, welcome to Guance Cloud for observability! 🎉
 
-![](../artwork/banner-global.png)
+![](banner.png)
 
 > -- *One Platform Observes Them All*.
 > It was created by stable diffusion.
